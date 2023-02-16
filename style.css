@@ -47,3 +47,24 @@ nav ul li{
     padding: 20px 30px;
 
 }
+.aboutpoi img {
+    width: 20%;
+    image-resolution: 4000px;
+    border-radius: 6%;
+}
+.aboutpoi {
+    background-color: rgb(58, 58, 58);
+    justify-content: center;
+}
+.aboutpoi header {
+    color: cyan;
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+    padding-bottom: 20px;
+    text-decoration-style: wavy;
+}
+.aboutpoi h2 {
+    font-size: large;
+    color: coral;
+}
